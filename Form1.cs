@@ -11,7 +11,9 @@ namespace EchoMessenger
         {
             String typed_msg = txtMessenger.Text;
             lstEchoWindow.Items.Add(typed_msg);
+            //버튼을 누르면 lstEchoWindow에 메시지 입력
             txtMessenger.Clear();
+            //txtMessenger에 남아있는 메시지 삭제
 
         }
     }
