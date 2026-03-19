@@ -64,6 +64,7 @@
             txtMessenger.Size = new Size(1105, 61);
             txtMessenger.TabIndex = 2;
             txtMessenger.Text = "(여기에 입력하세요)\r\n\r\n";
+            txtMessenger.KeyDown += txtMessenger_KeyDown;
             // 
             // btnSend
             // 
