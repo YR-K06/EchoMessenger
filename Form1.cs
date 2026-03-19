@@ -6,5 +6,13 @@ namespace EchoMessenger
         {
             InitializeComponent();
         }
+
+        private void btnSend_Click(object sender, EventArgs e)
+        {
+            String typed_msg = txtMessenger.Text;
+            lstEchoWindow.Items.Add(typed_msg);
+            txtMessenger.Clear();
+
+        }
     }
 }
