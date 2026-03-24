@@ -58,8 +58,8 @@
  -과제1코드의실행스크린샷
 
 
- ![과제1 실행화면](img/capture1-1.png)
- ![과제1 실행화면](img/capture1-2.png)
+ ![과제1 실행화면](img/capture1-3.png)
+ ![과제1 실행화면](img/capture1-4.png)
  ![과제1 실행화면](img/screenshot1-1.png)
  ![과제1 실행화면](img/screenshot1-2.png)
  
@@ -109,9 +109,9 @@
 
 
  -과제2코드의실행스크린샷![과제2 실행화면](img/capture2-1.png)
- (img/capture2-2.png)
- (img/capture2-3.png)
- (img/capture2-4.png)
+ [과제2 실행화면](img/capture2-2.png)
+ [과제2 실행화면](img/capture2-3.png)
+ [과제2 실행화면](img/capture2-4.png)
 
 
 
