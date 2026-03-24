@@ -108,9 +108,14 @@
  ## 실행화면(과제2)
 
 
- -과제2코드의실행스크린샷![과제2 실행화면](img/capture2-1.png)
+ -과제2코드의실행스크린샷!
+ 
+ [과제2 실행화면](img/capture2-1.png)
+
  [과제2 실행화면](img/capture2-2.png)
+
  [과제2 실행화면](img/capture2-3.png)
+
  [과제2 실행화면](img/capture2-4.png)
 
 
